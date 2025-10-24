@@ -31,7 +31,8 @@ CatPhotoApp is a simple webpage that celebrates the internet’s favorite animal
         <h2>Cat Photos</h2>
         <p>Everyone loves <a href="...">cute cats</a> online!</p>
         <p>See more <a target="_blank" href="...">cat photos</a> in our gallery.</p>
-        <a href="..."><img src="..." alt="A cute orange cat lying on its back."></a>
+        <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A relaxing cat">
+
       </section>
 
       <!-- Cat Lists Section -->
@@ -44,7 +45,11 @@ CatPhotoApp is a simple webpage that celebrates the internet’s favorite animal
           <li>lasagna</li>
         </ul>
         <figure>
-          <img src="..." alt="A slice of lasagna on a plate.">
+         <figure>
+  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+  <figcaption>Cats <em>love</em> lasagna.</figcaption>
+</figure>
+
           <figcaption>Cats <em>love</em> lasagna.</figcaption>
         </figure>
 
@@ -55,7 +60,8 @@ CatPhotoApp is a simple webpage that celebrates the internet’s favorite animal
           <li>other cats</li>
         </ol>
         <figure>
-          <img src="..." alt="Two tabby kittens sleeping together on a couch.">
+          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Two tabby kittens sleeping together on a couch">
+
           <figcaption>Cats <strong>hate</strong> other cats.</figcaption>
         </figure>
       </section>

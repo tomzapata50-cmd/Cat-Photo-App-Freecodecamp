@@ -22,6 +22,7 @@ CatPhotoApp is a simple webpage that celebrates the internet’s favorite animal
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta charset="UTF-8">
     <title>CatPhotoApp</title>
   </head>
   <body>
@@ -31,7 +32,7 @@ CatPhotoApp is a simple webpage that celebrates the internet’s favorite animal
         <h2>Cat Photos</h2>
         <p>Everyone loves <a href="https://freecatphotoapp.com">cute cats</a> online!</p>
         <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
-        <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A relaxing cat">
+        <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
 
       </section>
 

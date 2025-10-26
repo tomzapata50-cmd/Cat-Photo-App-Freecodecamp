@@ -47,10 +47,10 @@ CatPhotoApp is a simple webpage that celebrates the internet’s favorite animal
         </ul>
 
        
-         <figure>
-  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-  <figcaption>Cats <em>love</em> lasagna.</figcaption>
-</figure>
+        <figure>
+           <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+         <figcaption>Cats <em>love</em> lasagna.</figcaption>
+        </figure>
 
           <figcaption>Cats <em>love</em> lasagna.</figcaption>
         </figure>

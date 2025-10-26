@@ -17,8 +17,6 @@ CatPhotoApp is a simple webpage that celebrates the internet’s favorite animal
 ---
 
 ## 🧱 HTML Structure
-
-```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -33,12 +31,12 @@ CatPhotoApp is a simple webpage that celebrates the internet’s favorite animal
         <p>Everyone loves <a href="https://freecatphotoapp.com">cute cats</a> online!</p>
         <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
         <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
-
       </section>
 
       <!-- Cat Lists Section -->
       <section>
         <h2>Cat Lists</h2>
+
         <h3>Things cats love:</h3>
         <ul>
           <li>catnip</li>
@@ -46,12 +44,8 @@ CatPhotoApp is a simple webpage that celebrates the internet’s favorite animal
           <li>lasagna</li>
         </ul>
 
-       
         <figure>
-           <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-         <figcaption>Cats <em>love</em> lasagna.</figcaption>
-        </figure>
-
+          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
           <figcaption>Cats <em>love</em> lasagna.</figcaption>
         </figure>
 
@@ -61,9 +55,9 @@ CatPhotoApp is a simple webpage that celebrates the internet’s favorite animal
           <li>thunder</li>
           <li>other cats</li>
         </ol>
+
         <figure>
           <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Two tabby kittens sleeping together on a couch">
-
           <figcaption>Cats <strong>hate</strong> other cats.</figcaption>
         </figure>
       </section>
